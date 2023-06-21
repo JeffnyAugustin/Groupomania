@@ -47,6 +47,6 @@ L'administrateur quant à lui, peut, supprimer n'importe quel commentaire, post 
 <br/>
 <h4 align="left"> Frontend :</h4>
 
-- Ouvrir le navigateur et saisir l'URI localhost:3000
+- Ouvrir le navigateur et saisir l'url localhost:3000
 
 <br/>
