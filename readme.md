@@ -40,7 +40,7 @@ L'administrateur quant à lui, peut, supprimer n'importe quel commentaire, post 
 
 - Télécharger *NodeJS*
 - Créer un fichier `.env` pour remplir les variables d'environnements
-- installer Node et toute les dépendances avec `npm i`
+- installer Node et toute les dépendances avec `npm install`
 - Lancer le serveur avec `npm start`
 - Utiliser `Ctrl+C` pour stopper le serveur
 - Utilisation du `PORT = 3000`
